@@ -1,0 +1,6 @@
+com/example/sqs_dynamodb/config/SqsConfig.class
+com/example/sqs_dynamodb/repository/LogRepository.class
+com/example/sqs_dynamodb/config/DynamoDBConfig.class
+com/example/sqs_dynamodb/service/SqsReceiverService.class
+com/example/sqs_dynamodb/entity/Logs.class
+com/example/sqs_dynamodb/SqsDynamodbApplication.class

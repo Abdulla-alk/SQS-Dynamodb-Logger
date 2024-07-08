@@ -1,0 +1,6 @@
+/Users/abdulla/Desktop/Java/sqs-dynamodb/src/main/java/com/example/sqs_dynamodb/SqsDynamodbApplication.java
+/Users/abdulla/Desktop/Java/sqs-dynamodb/src/main/java/com/example/sqs_dynamodb/config/DynamoDBConfig.java
+/Users/abdulla/Desktop/Java/sqs-dynamodb/src/main/java/com/example/sqs_dynamodb/config/SqsConfig.java
+/Users/abdulla/Desktop/Java/sqs-dynamodb/src/main/java/com/example/sqs_dynamodb/entity/Logs.java
+/Users/abdulla/Desktop/Java/sqs-dynamodb/src/main/java/com/example/sqs_dynamodb/repository/LogRepository.java
+/Users/abdulla/Desktop/Java/sqs-dynamodb/src/main/java/com/example/sqs_dynamodb/service/SqsReceiverService.java
